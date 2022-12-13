@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shimpeiws/spike-github-packages/issues"
   },
-  "homepage": "https://github.com/shimpeiws/spike-github-packages#readme"
+  "homepage": "https://github.com/shimpeiws/spike-github-packages#readme",
+  "publishConfig": {
+    "@shimpeiws:registry": "https://npm.pkg.github.com"
+  }
 }
